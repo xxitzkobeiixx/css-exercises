@@ -3,5 +3,5 @@ div {
     background-color: red;
     font-size: 32px;
     align-self: center;
-    font: bold;
+    font-weight: bold;
 }
